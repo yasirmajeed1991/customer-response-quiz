@@ -7,7 +7,8 @@ The **Customer Response Quiz** is a web application developed using PHP, MySQL, 
 1. [Features](#features)
 2. [Installation](#installation)
 3. [Usage](#usage)
-
+4. [License](#license)
+5. [Contact](#contact)
 
 ## Features
 
@@ -24,20 +25,31 @@ The **Customer Response Quiz** is a web application developed using PHP, MySQL, 
 
 To install and run the application, follow these steps:
 
-**Usage**:
-   1. Download the zip file.
-   2. Extract the downloaded file.
-   3. There is a Database file namely db.sql import it in your phpMyAdmin.
-   4. Open the application and run to take the quiz.
-   5. For admin dashboard just put /admin after the folder you have created in which all the files your extracted.
-   6. Login with Following details
-      username: jessie
-      password: jessie@123
+1. **Download the zip file**.
+2. **Extract the downloaded file**.
+3. **Database Setup**:
+   - Locate the `db.sql` file.
+   - Import it into your phpMyAdmin to set up the database.
+4. **Run the Application**:
+   - Open the application in your browser and take the quiz.
+5. **Admin Dashboard Access**:
+   - Navigate to `/admin` after the folder path where the files are extracted.
+   - Login with the following credentials:
+     - **Username**: jessie
+     - **Password**: jessie@123
 
-**Enjoy**
-feel free to contact me at yasir@websixter.com if you have any question.
+## Usage
 
-**Licence Free**
-Share with your friends
+- Register with your name and phone number.
+- Answer the questions using the provided formats.
+- Submit your responses.
 
+## License
 
+**License Free**: Feel free to use and share this application with your friends.
+
+## Contact
+
+For any questions or support, feel free to contact me at [yasir@websixter.com](mailto:yasir@websixter.com).
+
+**Enjoy the quiz!**
