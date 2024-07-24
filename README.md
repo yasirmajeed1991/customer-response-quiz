@@ -7,9 +7,7 @@ The **Customer Response Quiz** is a web application developed using PHP, MySQL, 
 1. [Features](#features)
 2. [Installation](#installation)
 3. [Usage](#usage)
-4. [Technologies Used](#technologies-used)
-5. [Contributing](#contributing)
-6. [License](#license)
+
 
 ## Features
 
